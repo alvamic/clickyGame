@@ -1,0 +1,15 @@
+.wrapper {
+  background: rgb(175, 175, 175);
+  background-image: url('https://i.ytimg.com/vi/pe5eLN0pNv8/maxresdefault.jpg');
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+  padding-bottom: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+
+
